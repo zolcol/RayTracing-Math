@@ -1,0 +1,11 @@
+# Obsidian workspace state (tránh xung đột khi đồng bộ vị trí mở tab/con trỏ)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Thùng rác Obsidian
+.trash/
+
+# File rác hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
